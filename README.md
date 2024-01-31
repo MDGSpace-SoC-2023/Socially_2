@@ -33,3 +33,9 @@ Socially offers flexible authentication options, allowing users to log in seamle
 3. **OTP/Magic Link via Specified Email ID**
 
 Join the Socially community, where simplicity meets the diverse interests and creative expressions of college life. Explore, connect, and curate your online experience with Socially.
+
+
+
+Instructions : frontend -> npm run dev 
+               backend -> (after setting up the virtual env = .venv) -> python manage.py runserver 
+               dating -> (after setting up the virtual env = myvenv) -> python manage.py runserver 7000 (IMPORTANT)
